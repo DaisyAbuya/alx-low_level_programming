@@ -1,1 +1,1 @@
-# alx-low_level_programming
+conditional operators in c
